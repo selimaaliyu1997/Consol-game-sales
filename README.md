@@ -42,15 +42,14 @@ It demonstrates practical SQL skills including:
 
 ## 🎯 Business Questions Solved
 
-| # | Question                                       |
-| - | ---------------------------------------------- |
-| 1 | % of Global Sales from North America           |
-| 2 | Game titles sorted by platform & release year  |
-| 3 | Extract publisher name prefixes                |
-| 4 | Platforms released near major shopping seasons |
-| 5 | Platform longevity ranking                     |
-| 6 | Data type conversion for Year column           |
-| 7 | Handling missing data                          |
+ ## Question                                       
+ *  % of Global Sales from North America           
+ *  Game titles sorted by platform & release year  
+ *  Extract publisher name prefixes                
+ *  Platforms released near major shopping seasons 
+ * Platform longevity ranking                     
+ * Data type conversion for Year column           
+ * Handling missing data                          
 
 ---
 
