@@ -22,34 +22,6 @@ It demonstrates practical SQL skills including:
 
 ---
 
-## 🖼️ Project Preview
-
-![Dashboard Preview](https://via.placeholder.com/900x400.png?text=SQL+Analysis+Preview)
-
-> *Tip: Replace this image with your Power BI or SQL result screenshots.*
-
----
-
-# 🎮 Video Game Sales SQL Analysis
-
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
----
-
-## 📌 Project Overview
-
-This project explores a **video game sales dataset** using SQL to uncover insights about regional sales performance, platform trends, and data quality challenges.
-
-It demonstrates practical SQL skills including:
-
-* Aggregations
-* Sorting & filtering
-* String manipulation
-* Data cleaning
-* Data type conversion
 
 ---
 
