@@ -81,7 +81,7 @@ It demonstrates practical SQL skills including:
 
 ## 🧮 SQL Queries & Solutions
 
-### 📊 1. North America Sales Percentage
+### 1. North America Sales Percentage
 
 ```sql
 SELECT 
@@ -91,7 +91,7 @@ FROM video_game_sales;
 
 ---
 
-### 📂 2. Games Ordered by Platform & Year
+###  2. Games Ordered by Platform & Year
 
 ```sql
 SELECT Name, Platform, Year
@@ -101,7 +101,7 @@ ORDER BY Platform ASC, Year DESC;
 
 ---
 
-### 🔤 3. Publisher Name Prefix
+### 3. Publisher Name Prefix
 
 ```sql
 SELECT Name, LEFT(Publisher, 4) AS Publisher_Code
@@ -110,7 +110,7 @@ FROM video_game_sales;
 
 ---
 
-### 🛍️ 4. Platforms Released Before Holiday Seasons
+### 4. Platforms Released Before Holiday Seasons
 
 ```sql
 SELECT DISTINCT Platform, Year
@@ -120,7 +120,7 @@ WHERE MONTH(Release_Date) IN (10, 11, 12);
 
 ---
 
-### ⏳ 5. Platform Longevity
+### 5. Platform Longevity
 
 ```sql
 SELECT 
@@ -135,7 +135,7 @@ ORDER BY Longevity ASC;
 
 ---
 
-### 🔄 6. Convert Year Data Type
+###  6. Convert Year Data Type
 
 ```sql
 SELECT CAST(Year AS INT) AS Converted_Year
@@ -144,7 +144,7 @@ FROM video_game_sales;
 
 ---
 
-### 🧹 7. Handling Missing Data
+### 7. Handling Missing Data
 
 **Remove null values**
 
@@ -172,9 +172,9 @@ FROM video_game_sales;
 
 ## 📈 Key Insights
 
-* 📊 North America contributes a large portion of global sales
-* 🎮 Some platforms dominate the market for longer periods
-* ⚠️ Data cleaning is critical for accurate reporting
+*  North America contributes a large portion of global sales
+*  Some platforms dominate the market for longer periods
+*  Data cleaning is critical for accurate reporting
 
 ---
 
@@ -186,35 +186,19 @@ FROM video_game_sales;
 
 ---
 
-## 🚀 Getting Started
 
-1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/video-game-sql-analysis.git
-```
-
-2. Import dataset into MySQL
-
-3. Run queries from the `/queries` folder
 
 ---
 
-## 📊 Future Improvements
+## 📸 Project view
 
-* 📉 Build Power BI dashboard
-* 🤖 Add predictive analytics
-* 📊 Include genre-based analysis
+<img width="393" height="457" alt="Capture SQL" src="https://github.com/user-attachments/assets/ccf6081b-bdb5-418e-9d32-517a5b7d991a" />
+<img width="319" height="464" alt="Capture SQL2" src="https://github.com/user-attachments/assets/3eff16c8-efed-4efe-b46b-f2ddc6b85766" />
+<img width="407" height="433" alt="Capture SQL3" src="https://github.com/user-attachments/assets/a2291311-a31d-428e-8a0e-e53da6e17ae1" />
 
----
 
-## 📸 Add Your Results
 
-You can enhance this project by adding:
-
-* Query output screenshots
-* Charts (Power BI / Excel)
-* Insights summary
 
 ---
 
@@ -222,8 +206,8 @@ You can enhance this project by adding:
 
 **Aliyu Salamatu Ibrahim**
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 GitHub: https://github.com/your-username
+📧 Email: [selimaaliyu1997@gmail.com](mailto:your-email@example.com)
+🔗 GitHub: https://github.com/selimaaliyu1997
 
 ---
 
@@ -237,17 +221,5 @@ If you like this project, give it a ⭐ on GitHub!
 
 ---
 
-## 🎯 Business Questions Solved
-
- ## Question                                       
- *  % of Global Sales from North America           
- *  Game titles sorted by platform & release year  
- *  Extract publisher name prefixes                
- *  Platforms released near major shopping seasons 
- * Platform longevity ranking                     
- * Data type conversion for Year column           
- * Handling missing data                          
-
----
 
 
